@@ -74,7 +74,7 @@ body {
 }
 
 i {
-    font-size: 70px;
+    font-size: 48px;
     color: #DECFA3;
     padding: 20px;
 }
@@ -82,5 +82,5 @@ i {
 .social_media {
     position: fixed;
     bottom: 0;
-    margin-right: 325px;
+    margin-right: 125px;
 }
